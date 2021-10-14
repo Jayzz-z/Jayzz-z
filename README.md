@@ -8,10 +8,10 @@ Here are some ideas to get you started:
   
 - 👋 Hi, I’m @ijayzz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently persuing MCA
+- 🌱 I’m currently persuing masters
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me mailto: jaykumawat1234@gmail.com
+- 📫 How to reach me mailto: noreplay@gmail.com
 - 💬 Ask me about web dev
-- 😄 Pronouns: Buddy
+- 😄 Pronouns: eeeeheeeheee
 - ⚡ Fun fact: serious haha.
 
