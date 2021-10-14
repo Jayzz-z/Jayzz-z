@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently persuing masters
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me mailto: noreplay@gmail.com
+- 📫 How to reach me mailto: invalidmail@gmail.com
 - 💬 Ask me about web dev
 - 😄 Pronouns: eeeeheeeheee
 - ⚡ Fun fact: serious haha.
