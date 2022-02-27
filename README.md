@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
   
-- 👋 Hi, I’m @ijayzz
+- 👋 Hi, I’m @jayzz
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently persuing masters
 - 💞️ I’m looking to collaborate on Github
